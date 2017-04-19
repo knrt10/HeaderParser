@@ -1,0 +1,14 @@
+{
+  "name": "headerparser",
+  "version": "1.0.0",
+  "description": "Tells your IP address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KNRT",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
